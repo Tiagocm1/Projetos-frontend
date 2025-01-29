@@ -1,0 +1,1 @@
+Este é um projeto proposto pela Alura, uma escola de tecnologia online. Projeto este, onde iremos replicar a interface inicial do Spotify, um streaming de música. Para refazer a interface inicial, utilizaremos as seguintes tecnologias: HTML5, CSS3, JavaScript e a IDE VSCode. E por fim, como sistema de controle de versão, está sendo utilizado o Git.
